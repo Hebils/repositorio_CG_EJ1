@@ -1,0 +1,11 @@
+{
+    "carros": [
+        {
+            "idVehiculo": "Gunma",
+            "marca": "Toyota",
+            "modelo": "AE86",
+            "placa": "AK1N4",
+            "numeroPuertas": 4
+        }
+    ]
+}
